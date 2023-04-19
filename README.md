@@ -1,4 +1,4 @@
-### Jogo-Pong
+# Jogo-Pong
 
 ## Ferramentas utilizadas:
 
