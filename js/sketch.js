@@ -190,9 +190,9 @@ let ponto;
 let trilha;
 
 function preload() {
-  trilha = loadSound("trilha.mp3");
-  ponto = loadSound("ponto.mp3");
-  raquetada = loadSound("raquetada.mp3");
+  trilha = loadSound("sounds/trilha.mp3");
+  ponto = loadSound("sounds/ponto.mp3");
+  raquetada = loadSound("sounds/raquetada.mp3");
 }
 
 function bolinhaNaoFicaPresa(){
